@@ -19,7 +19,7 @@ p_near=0.495
 p_far=49.5
 viewport=0, 0, 1280, 800
 #### COMPUTATIONAL
-extract_hidden=false
+extract_hidden=true
 frustum_culling=false
 ring_size=4
 curvature_scale=20
