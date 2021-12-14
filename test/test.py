@@ -1,9 +1,8 @@
-import pymeshlab as ml
-import numpy as np
-import latk
-from pathlib import Path
 import os
 import xml.etree.ElementTree as etree
+from pathlib import Path
+import pymeshlab as ml
+import numpy as np
 import latk
 
 samplePercentage = 0.1
